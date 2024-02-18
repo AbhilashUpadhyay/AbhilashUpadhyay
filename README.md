@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things.
 - 💞️ I’m looking to collaborate on Front-end projects.
 - I believe in practical knowladge so i always engaged in practical projects.
-- 📫 How to reach me abhilashupadhyay12@gmail.com
+- 📫 How to reach me upadhyayabhilash12@gmail.com
 
 <!---
 AbhilashUpadhyay/AbhilashUpadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
